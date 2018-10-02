@@ -7,7 +7,7 @@ I used this tutorial to learn the basics of making a Reddit.com bot.
 This tutorial not only taught me how to use praw, it also taught me how to use crontab.
 
 The bots that were written for this tutorial are in this repo. 
-All the bots run in the subreddit r/Justletmetest. This subreddit is my personal subreddit that serves as my testing grounds.
+All the bots run in the subreddit r/Justletmetest. This subreddit is my personal subreddit that serves as our testing grounds.
 
 bot.py
 	Simple bot that reads the top 5 posts in the hot section of r/Justletmetest
